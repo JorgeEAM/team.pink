@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-echo $(hostname
+echo $(hostname)
 echo $(id)
 echo $(date)
 for i in {1..3}
