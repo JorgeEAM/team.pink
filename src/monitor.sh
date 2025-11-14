@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 echo $(hostname)
 echo $(id)
+echo $(date)
 for i in {1..3}
 do
 	echo "Running iteration $i"
