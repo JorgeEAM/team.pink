@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+echo $(hostname)
 for i in {1..3}
 do
 	echo "Running iteration $i"
